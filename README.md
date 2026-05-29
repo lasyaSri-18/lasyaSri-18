@@ -19,7 +19,7 @@ Computer Science Graduate passionate about Full-Stack Development, Artificial In
 
 ✅ Smart Expense Tracker
 
-🚀 Calculator App (In Progress)
+✅ Calculator App
 
 🚀 Weather App (Planned)
 
