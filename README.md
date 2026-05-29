@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Reballi Lasya 👋
 
-<!--
-**lasyaSri-18/lasyaSri-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer
 
-Here are some ideas to get you started:
+Computer Science Graduate passionate about Full-Stack Development, Artificial Intelligence, and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* Git & GitHub
+* React (Learning)
+* AI Fundamentals (Learning)
+
+## Projects
+
+✅ Smart Expense Tracker
+
+🚀 Calculator App (In Progress)
+
+🚀 Weather App (Planned)
+
+📫 Email: [lasyareballi@gmail.com](mailto:lasyareballi@gmail.com)
