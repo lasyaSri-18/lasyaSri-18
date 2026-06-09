@@ -21,6 +21,8 @@ Computer Science Graduate passionate about Full-Stack Development, Artificial In
 
 ✅ Calculator App
 
-🚀 Weather App (Planned)
+✅ Weather App 
+
+✅ Task manager app
 
 📫 Email: [lasyareballi@gmail.com](mailto:lasyareballi@gmail.com)
