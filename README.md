@@ -25,4 +25,7 @@ Computer Science Graduate passionate about Full-Stack Development, Artificial In
 
 ✅ Task manager app
 
+✅ Movie search app
+
+
 📫 Email: [lasyareballi@gmail.com](mailto:lasyareballi@gmail.com)
